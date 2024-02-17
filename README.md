@@ -1,6 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand-Wave.gif" width='40' align="left"/>
-
-# Hi there! I'm Alex.
+# Hi there! I'm Alex. <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/>
 
 
 <img alt="Night coding" src="./assets/Night-Coding.gif" width='400' align="left"/>
