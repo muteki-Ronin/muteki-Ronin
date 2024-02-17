@@ -22,11 +22,11 @@
 
 
 ### Top Technologies
-[![HTML5 Badge](https://img.shields.io/badge/-HTML_5-orange?style=for-the-badge&labelColor=white&logo=html5&logoColor=orange)](#)
-[![CSS3 Badge](https://img.shields.io/badge/-CSS_3-blue?style=for-the-badge&labelColor=white&logo=CSS3&logoColor=blue)](#)
+[![HTML5 Badge](https://img.shields.io/badge/-HTML_5-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange)](#)
+[![CSS3 Badge](https://img.shields.io/badge/-CSS_3-blue?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=blue)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Java_script-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Typescript Badge](https://img.shields.io/badge/-Type_script-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Redux Badge](https://img.shields.io/badge/-Redux-blueviolet?style=for-the-badge&labelColor=white&logo=redux&logoColor=blueviolet)](#)
+[![Redux Badge](https://img.shields.io/badge/-Redux-blueviolet?style=for-the-badge&labelColor=black&logo=redux&logoColor=blueviolet)](#)
 
 
