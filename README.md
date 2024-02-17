@@ -1,4 +1,6 @@
-<img alt="Night Coding" src="./assets/Hand-Wave.gif" width='40' align="left"/><h2>Hi there! I'm Alex.</h2>
+<img alt="Night Coding" src="./assets/Hand-Wave.gif" width='40' align="left"/>
+
+# Hi there! I'm Alex.
 
 
 <img alt="Night coding" src="./assets/Night-Coding.gif" width='400' align="left"/>
