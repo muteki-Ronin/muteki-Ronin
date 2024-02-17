@@ -1,6 +1,5 @@
-<img alt="Hand wave" src="./assets/Hand-Wave.gif/" width='40' align="left"/> 
+<img alt="Night Coding" src="./assets/Hand-Wave.gif" width='40' align="left"/><h2>Hi there! I'm Alex.</h2>
 
-# Hi there! I'm Alex.
 
 <img alt="Night coding" src="./assets/Night-Coding.gif" width='400' align="left"/>
 
@@ -22,7 +21,6 @@
 
 [![Static Badge](https://img.shields.io/badge/Alex%20Diachenko-blue?logo=linkedin)](https://www.linkedin.com/in/alex-diachenko-a24144215/)
 
-
 ### Top Technologies
 
 ![HTML](https://img.shields.io/badge/HTML_5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -31,4 +29,3 @@
 ![TS](https://img.shields.io/badge/Type_Script-1572B6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![REDUX](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
-
